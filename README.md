@@ -1,5 +1,6 @@
  <h2 align="center">Hi👋 I´m Germán</h2>                                                  
 <hr>
+
 ```javascript
 const germanChrystan = {
     pronouns: "He" | "Him",
