@@ -13,7 +13,7 @@ const germanChrystan = {
         backEnd: ["express"],
         databases: ["postgreSQL", "mongoDB"],
     },
-    learning: ['Java', 'SpringBoot']
+    learning: ['java', 'springBoot']
 };
 ```
 
