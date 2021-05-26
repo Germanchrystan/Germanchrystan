@@ -16,6 +16,12 @@ const germanChrystan = {
 };
 ```
 
+
+
+
+
+
+<hr>
 <h3 align="center">What I use</h3>
 <table align="center">
   <tbody>
@@ -36,7 +42,7 @@ const germanChrystan = {
     </tr>
   </tbody>
 </table>
-
+<hr>
 <h3 align="center">You can reach me at </h3>
 
 <p align="center">
