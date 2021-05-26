@@ -3,11 +3,11 @@
 
 ```javascript
 const germanChrystan = {
-    pronouns: "He" | "Him",
+    pronouns: ["He" | "Him"],
     askMeAbout: ["web dev", "music", "games"],
     technologies: {
         frontEnd: {
-            js: ["ReactJs"],
+            js: ["reactJs"],
             css: ["bootstrap", "sass", "less"]
         },
         backEnd: ["express"],
