@@ -9,8 +9,8 @@ const germanChrystan = {
             js: ["ReactJs"],
             css: ["bootstrap", "sass", "less"]
         },
-        backEnd: ["Express", "PHP"],
-        databases: ["PostgreSQL", "MongoDB"],
+        backEnd: ["express"],
+        databases: ["postgreSQL", "mongoDB"],
     },
     learning: ['Java', 'SpringBoot']
 };
