@@ -8,8 +8,8 @@ const germanChrystan = {
     technologies: {
         languages: ["JavaScript", "TypeScript", "Java", "Python"],
         frontEnd: {
-            frameworks: ["reactJs"],
-            css: ["bootstrap", "sass", "less"]
+             frameworks: ["reactJs"],
+             css: ["bootstrap", "sass", "less"]
         },
         backEnd: ["express", "springBoot", "django"],
         databases: ["postgreSQL", "mongoDB"],
@@ -18,12 +18,12 @@ const germanChrystan = {
        isEmployed: true,
        workingAt: [
         {
-           company: "VU Security",
-           position: "Developer"
+             company: "VU Security",
+             position: "Developer"
         },
         {
-           company: "Coderhouse",
-           position: "ReactJs Teaching Assistant"
+             company: "Coderhouse",
+             position: "ReactJs Teaching Assistant"
         }
      ]
     } 
