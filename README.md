@@ -6,14 +6,27 @@ const germanChrystan = {
     pronouns: ["He" | "Him"],
     askMeAbout: ["web dev", "music", "games"],
     technologies: {
+        languages: ["JavaScript", "TypeScript", "Java", "Python"],
         frontEnd: {
-            js: ["reactJs"],
+            frameworks: ["reactJs"],
             css: ["bootstrap", "sass", "less"]
         },
-        backEnd: ["express"],
+        backEnd: ["express", "springBoot", "django"],
         databases: ["postgreSQL", "mongoDB"],
     },
-    learning: ['java', 'springBoot']
+    jobs: {
+       isEmployed: true,
+       workingAt: [
+        {
+           company: "VU Security",
+           position: "Developer"
+        },
+        {
+           company: "Coderhouse",
+           position: "ReactJs Teaching Assistant"
+        }
+     ]
+    } 
 };
 ```
 
