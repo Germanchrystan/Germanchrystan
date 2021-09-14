@@ -12,7 +12,7 @@ const germanChrystan = {
             css: ["bootstrap", "sass", "less"]
         },
         backEnd: ["express", "springBoot", "django"],
-        databases: ["postgreSQL", "mongoDB"],
+        databases: ["postgreSQL", "mongoDB", "MySQL"],
     },
     jobs: {
        isEmployed: true,
