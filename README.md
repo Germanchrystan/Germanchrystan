@@ -18,8 +18,8 @@ const germanChrystan = {
        isEmployed: true,
        workingAt: [
           {
-            company: "VU Security",
-            position: "Developer"
+            company: "Mercado Libre",
+            position: "Software Developer Analyst"
           },
           {
             company: "Coderhouse",
