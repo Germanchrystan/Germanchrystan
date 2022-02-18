@@ -6,12 +6,12 @@ const germanChrystan = {
     pronouns: ["He" | "Him"],
     askMeAbout: ["web dev", "music", "games"],
     technologies: {
-        languages: ["JavaScript", "TypeScript", "Java", "Python"],
+        languages: ["Go", "JavaScript", "TypeScript", "Java"],
         frontEnd: {
             frameworks: ["reactJs"],
             css: ["bootstrap", "sass", "less"]
         },
-        backEnd: ["express", "springBoot", "django"],
+        backEnd: ["ginGonic", "expressJs", "springBoot"],
         databases: ["postgreSQL", "mongoDB", "mySQL"],
     },
     jobs: {
