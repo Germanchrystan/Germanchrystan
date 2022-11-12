@@ -4,14 +4,13 @@
 ```javascript
 const germanChrystan = {
     pronouns: ["He" | "Him"],
-    askMeAbout: ["web dev", "music", "games"],
     technologies: {
-        languages: ["Go", "JavaScript", "TypeScript", "Java"],
+        languages: ["Go", "JavaScript", "TypeScript", "C#"],
         frontEnd: {
             frameworks: ["reactJs"],
             css: ["bootstrap", "sass", "less"]
         },
-        backEnd: ["ginGonic", "expressJs", "springBoot"],
+        backEnd: ["ginGonic", "expressJs"],
         databases: ["postgreSQL", "mongoDB", "mySQL"],
     },
     jobs: {
@@ -21,12 +20,15 @@ const germanChrystan = {
             company: "Mercado Libre",
             position: "Software Developer Analyst"
           },
-          {
-            company: "Coderhouse",
-            position: "ReactJs Teaching Assistant"
-          }
        ]
-    } 
+    },
+    hobbies: {
+     [
+      "Game Development",
+      "Music",
+      "Reading"
+     ]
+    }
 };
 ```
 
