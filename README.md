@@ -5,10 +5,9 @@
 const germanChrystan = {
     pronouns: ["He" | "Him"],
     technologies: {
-        languages: ["Go", "JavaScript", "TypeScript", "C#"],
+        languages: ["Go", "TypeScript", "C#"],
         frontEnd: {
             frameworks: ["reactJs"],
-            css: ["bootstrap", "sass", "less"]
         },
         backEnd: ["ginGonic", "expressJs"],
         databases: ["postgreSQL", "mongoDB", "mySQL"],
