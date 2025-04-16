@@ -17,7 +17,7 @@ const germanChrystan = {
        workingAt: [
           {
             company: "Mercado Libre",
-            position: "Software Developer Analyst"
+            position: "Software Engineer"
           },
        ]
     },
